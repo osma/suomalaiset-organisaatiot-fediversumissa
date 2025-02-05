@@ -26,24 +26,6 @@ Jos huomaat puutteita listassa, voit tehdä Pull Requestin tai jos et osaa, avat
 
 ## Aktiiviset tilit
 
-### Media
-
-* [AfterDawn](https://mementomori.social/@afterdawn)
-* [Ilmiö - sosiologinen media](https://mastodon.social/@ilmio)
-* [Iso Numero](https://pixelfed.social/isonumero)
-* [Mikrobitti](https://mastodon.social/@mikrobitti)
-* [Risingshadow](https://mstdn.social/@RisingshadowFi)
-* [Tehy-lehti](https://some.tehy.fi/@tehylehti) 🏠
-* [Tivi-lehti](https://mastodon.social/@tivilehti)
-* [Uutissirkus](https://mastodon.social/@uutissirkus)
-
-### Yritykset
-
-* [Digitoimisto Dude Oy](https://mementomori.social/@dude)
-* [HelsinkiUPress](https://h-net.social/@HelsinkiUPress)
-* [jolla](https://techhub.social/@jolla)
-* [Korppi Games](https://mastodon.gamedev.place/@korppi)
-
 ### Järjestöt ja muu kansalaisyhteiskunta
 
 * [Akaa Hacklab](https://some.hacklab.fi/@akaa) 🏠
@@ -77,6 +59,17 @@ Jos huomaat puutteita listassa, voit tehdä Pull Requestin tai jos et osaa, avat
 * [Viite](https://mstdn.social/@viite)
 * [Voikukka-kollektiivi](https://kolektiva.social/@voikukka)
 
+### Media
+
+* [AfterDawn](https://mementomori.social/@afterdawn)
+* [Ilmiö - sosiologinen media](https://mastodon.social/@ilmio)
+* [Iso Numero](https://pixelfed.social/isonumero)
+* [Mikrobitti](https://mastodon.social/@mikrobitti)
+* [Risingshadow](https://mstdn.social/@RisingshadowFi)
+* [Tehy-lehti](https://some.tehy.fi/@tehylehti) 🏠
+* [Tivi-lehti](https://mastodon.social/@tivilehti)
+* [Uutissirkus](https://mastodon.social/@uutissirkus)
+
 ### Tutkimusryhmät, -projektit ja -infrastruktuurit sekä tieteelliset seurat ja lehdet
 
 * [Aalto Scientific Computing](https://fosstodon.org/@SciCompAalto)
@@ -89,6 +82,13 @@ Jos huomaat puutteita listassa, voit tehdä Pull Requestin tai jos et osaa, avat
 * [Pelitutkimus.fi](https://www.pelitutkimus.fi/@blogi) 🏠
 * [Suomen antropologi (journal)](https://fediscience.org/@suomenantropologi)
 * [Suomen Lajitietokeskus](https://ecoevo.social/@lajitieto)
+
+### Yritykset
+
+* [Digitoimisto Dude Oy](https://mementomori.social/@dude)
+* [HelsinkiUPress](https://h-net.social/@HelsinkiUPress)
+* [jolla](https://techhub.social/@jolla)
+* [Korppi Games](https://mastodon.gamedev.place/@korppi)
 
 ## Ei-aktiiviset tilit
 

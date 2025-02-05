@@ -97,3 +97,7 @@ Jos huomaat puutteita listassa, voit tehdä Pull Requestin tai jos et osaa, avat
 * [pirkanilmailijat](https://mementomori.social/@pirkanilmailijat)
 * [Skrolli-lehti](https://some.skrolli.fi/@skrollilehti) 🏠
 * [Xamk](https://fedi.xamk.fi/@xamk) 🏠
+
+## Lisenssi ja käyttöehdot
+
+Tekijä [Osma Suominen](https://sigmoid.social/@osma). Saa käyttää vapaasti [CC0-lisenssin](LICENSE) mukaisesti.

@@ -1,4 +1,4 @@
-# Suomalaiset organisaatiot Fediversumissa
+# Suomalaiset organisaatiot Fediversumissa 2025
 
 Tähän listaan on kerätty suomalaisia organisaatiota, joilla on aktiivinen tili Fediversumissa (Mastodon, Pixelfed yms.) vuoden 2025 alussa.
 

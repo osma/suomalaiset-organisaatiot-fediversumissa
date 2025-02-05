@@ -2,27 +2,29 @@
 
 Tähän listaan on kerätty suomalaisia organisaatiota, joilla on aktiivinen tili Fediversumissa (Mastodon, Pixelfed yms.) vuoden 2025 alussa.
 
-Kriteerejä listaukselle:
- * Organisaatiolla tulee olla tili omissa nimissään, ts. tili edustaa koko organisaatiota, ja organisaation itsensä perustama.
- * Organisaation ei tarvitse olla virallisessa rekisterissä, mutta tilin tulee edustaa selvästi enemmän kuin yhtä ihmistä.
-    * Tässä yhteydessä esim. selkeitä yhden hengen yrityksiä ei lasketa organisaatioiksi, vaikka ne olisivatkin rekisteröityjä yhteisöjä.
-    * Usein tätä on vaikea tietää, joten listalla voi silti olla myös oikeasti vain yhden hengen organisaatioita.
- * Tilin tulee olla aktiivinen, eli sillä on julkisia tööttejä viimeisen 3 kuukauden ajalta. (Joitain ei-aktiiviseja tilejä on lopussa erikseen.)
- * Yksisuuntaisia julkaisufeedejä (esim. RSS-syötteeseen perustuvia) ei lasketa. Tilin pitää olla muullakin tapaa aktiivinen, esimerkiksi reagoida vastauksiin tai mainintoihin.
- * Organisaation pitää olla suomalainen. (Mitä sitten ikinä tarkoittaakin. Kielellä ei kuitenkaan ole väliä.)
+## Taustaa
 
-Taustaa: [Kysyin](https://sigmoid.social/@osma/113910812476160969) fedissä mitä organisaatiotilejä on, koska asiaa kysyttiin minulta. Sain paljon hyviä vastauksia, joten päätin kerätä ne listaksi muidenkin käyttöön. Varmasti monet organisaatiot harkitsevat oman tilin tai jopa oman instanssin perustamista, joten tästä listasta löytää esimerkkejä siitä, miten muut organisaatiot jo nyt viestivät fedissä.
+[Kysyin](https://sigmoid.social/@osma/113910812476160969) fedissä mitä organisaatiotilejä on, koska asiaa kysyttiin minulta. Sain paljon hyviä vastauksia, joten päätin kerätä ne listaksi muidenkin käyttöön. Varmasti monet organisaatiot harkitsevat oman tilin tai jopa oman instanssin perustamista, joten tästä listasta löytää esimerkkejä siitä, miten muut organisaatiot jo nyt viestivät fedissä.
+
+## Kriteerit
+
+* Organisaatiolla tulee olla tili omissa nimissään, ts. tili edustaa koko organisaatiota, ja organisaation itsensä perustama.
+* Organisaation ei tarvitse olla virallisessa rekisterissä, mutta tilin tulee edustaa selvästi enemmän kuin yhtä ihmistä.
+  * Tässä yhteydessä esim. selkeitä yhden hengen yrityksiä ei lasketa organisaatioiksi, vaikka ne olisivatkin rekisteröityjä yhteisöjä.
+  * Usein tätä on vaikea tietää, joten listalla voi silti olla myös oikeasti vain yhden hengen organisaatioita.
+* Tilin tulee olla aktiivinen, eli sillä on julkisia tööttejä viimeisen 3 kuukauden ajalta. (Joitain ei-aktiiviseja tilejä on lopussa listattu erikseen.)
+* Yksisuuntaisia julkaisufeedejä (esim. RSS-syötteeseen perustuvia) ei lasketa. Tilin pitää olla muullakin tapaa aktiivinen, esimerkiksi reagoida vastauksiin tai mainintoihin.
+* Organisaation pitää olla suomalainen. (Mitä sitten ikinä tarkoittaakin. Kielellä ei kuitenkaan ole väliä.)
+
+## Listan periaatteet
 
 Kategoriat ovat vähän mielivaltaisia kuten aina, mutta jotenkin tämä piti jäsentää. Lista on aakkosjärjestyksessä kunkin kategorian sisällä. Nimi on siinä muodossa kuin se on tilin nimessä. 🏠-ikoni tarkoittaa, että organisaatiolla on oma, vain organisaation käyttöön perustettu instanssi. (Tilejä voi olla useita, kunhan ne kytkeytyvät samaan organisaatioon tai organisaatioryppääseen.)
 
+## Lisäykset ja korjaukset
+
 Jos huomaat puutteita listassa, voit tehdä Pull Requestin tai jos et osaa, avata Issuen. Ylläpidän listaa ainakin maaliskuun 2025 loppuun, sen jälkeen katsotaan jaksanko, koska tilanne tietysti elää jatkuvasti.
 
-
 ## Aktiiviset tilit
-
-### Julkishallinto
-
-* [Suomen Lajitietokeskus](https://ecoevo.social/@lajitieto)
 
 ### Media
 
@@ -75,8 +77,6 @@ Jos huomaat puutteita listassa, voit tehdä Pull Requestin tai jos et osaa, avat
 * [Viite](https://mstdn.social/@viite)
 * [Voikukka-kollektiivi](https://kolektiva.social/@voikukka)
 
-### Oppilaitokset
-
 ### Tutkimusryhmät, -projektit ja -infrastruktuurit sekä tieteelliset seurat ja lehdet
 
 * [Aalto Scientific Computing](https://fosstodon.org/@SciCompAalto)
@@ -86,8 +86,9 @@ Jos huomaat puutteita listassa, voit tehdä Pull Requestin tai jos et osaa, avat
 * [Historiallinen aikakauskirja](https://toot.community/@HAik)
 * [Kielipankki (FIN-CLARIN)](https://toot.community/@kielipankki)
 * [ORSI - Towards Ecowelfarestate](https://fediscience.org/@ORSI)
-* [Pelitutkimus.fi](https://www.pelitutkimus.fi/@blogi)
+* [Pelitutkimus.fi](https://www.pelitutkimus.fi/@blogi) 🏠
 * [Suomen antropologi (journal)](https://fediscience.org/@suomenantropologi)
+* [Suomen Lajitietokeskus](https://ecoevo.social/@lajitieto)
 
 ## Ei-aktiiviset tilit
 

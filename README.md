@@ -18,7 +18,7 @@ Tähän listaan on kerätty suomalaisia organisaatiota, joilla on aktiivinen til
 
 ## Listan periaatteet
 
-Kategoriat ovat vähän mielivaltaisia kuten aina, mutta jotenkin tämä piti jäsentää. Lista on aakkosjärjestyksessä kunkin kategorian sisällä. Nimi on siinä muodossa kuin se on tilin nimessä. 🏠-ikoni tarkoittaa, että organisaatiolla on oma, vain organisaation käyttöön perustettu instanssi. (Tilejä voi olla useita, kunhan ne kytkeytyvät samaan organisaatioon tai organisaatioryppääseen.)
+Kategoriat ovat vähän mielivaltaisia kuten aina, mutta jotenkin tämä piti jäsentää. Lista on aakkosjärjestyksessä kunkin kategorian sisällä. Nimi on siinä muodossa kuin se on tilin nimessä. 🏠-ikoni tarkoittaa, että organisaatiolla on oma, vain organisaation käyttöön perustettu instanssi. (Tilejä samalla instanssilla voi tietenkin olla useita, kunhan ne kytkeytyvät samaan organisaatioon tai organisaatioryppääseen.)
 
 ## Lisäykset ja korjaukset
 

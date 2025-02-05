@@ -12,8 +12,8 @@ Tähän listaan on kerätty suomalaisia organisaatiota, joilla on aktiivinen til
 * Organisaation ei tarvitse olla virallisessa rekisterissä, mutta tilin tulee edustaa selvästi enemmän kuin yhtä ihmistä.
   * Tässä yhteydessä esim. selkeitä yhden hengen yrityksiä ei lasketa organisaatioiksi, vaikka ne olisivatkin rekisteröityjä yhteisöjä.
   * Usein tätä on vaikea tietää, joten listalla voi silti olla myös oikeasti vain yhden hengen organisaatioita.
-* Tilin tulee olla aktiivinen, eli sillä on julkisia tööttejä viimeisen 3 kuukauden ajalta. (Joitain ei-aktiiviseja tilejä on lopussa listattu erikseen.)
-* Yksisuuntaisia julkaisufeedejä (esim. RSS-syötteeseen perustuvia) ei lasketa. Tilin pitää olla muullakin tapaa aktiivinen, esimerkiksi reagoida vastauksiin tai mainintoihin.
+* Tilin tulee olla aktiivinen, eli sillä on julkisia tööttejä viimeisen 3 kuukauden ajalta. (Joitain ei-aktiivisia tilejä on lopussa listattu erikseen.)
+* Yksisuuntaisia julkaisufeedejä (esim. RSS-syötteeseen perustuvia) ei lasketa. Tilin pitää olla muullakin tapaa aktiivinen, esimerkiksi reagoida vastauksiin tai mainintoihin. Botteja ei lasketa.
 * Organisaation pitää olla suomalainen. (Mitä sitten ikinä tarkoittaakin. Kielellä ei kuitenkaan ole väliä.)
 
 ## Listan periaatteet

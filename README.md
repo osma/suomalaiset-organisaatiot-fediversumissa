@@ -50,7 +50,7 @@ Jos huomaat puutteita listassa, voit tehdä Pull Requestin tai jos et osaa, avat
 * [Saku - Suomen Amiga-käyttäjät](https://some.sakulehti.fi/@saku) 🏠
 * [Sorvan kyläyhdistys ry](https://eliitin-some.fi/@sorvanky)
 * [Suomen Humanistiliitto](https://mstdn.social/@humanistiliitto)
-* [tampereenvihuri](https://mementomori.social/@tampereenvihuri)
+* [Tampereen Vihuri ry](https://mementomori.social/@tampereenvihuri)
 * [Tampere Hacklab](https://some.hacklab.fi/@tampere) 🏠
 * [Tarlab Oulu](https://some.hacklab.fi/@tarlab) 🏠
 * [Tehy ry](https://some.tehy.fi/@tehy_ry) 🏠

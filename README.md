@@ -47,7 +47,7 @@ Jos huomaat puutteita listassa, voit tehdä Pull Requestin tai jos et osaa, avat
 * [Kummacon](https://mastodon.social/@kummacon)
 * [Nuoren Voiman Liitto](https://mastodon.social/@nuorenvoimanliitto)
 * [Pinkkimusta Helsinki](https://todon.eu/@pinkkimustahki)
-* [Saku - Suomen Amiga-käyttäjät](https://some.sakulehti.fi/@saku)
+* [Saku - Suomen Amiga-käyttäjät](https://some.sakulehti.fi/@saku) 🏠
 * [Sorvan kyläyhdistys ry](https://eliitin-some.fi/@sorvanky)
 * [Suomen Humanistiliitto](https://mstdn.social/@humanistiliitto)
 * [tampereenvihuri](https://mementomori.social/@tampereenvihuri)
@@ -92,7 +92,7 @@ Jos huomaat puutteita listassa, voit tehdä Pull Requestin tai jos et osaa, avat
 
 ## Ei-aktiiviset tilit
 
-* [AntroBlogi](https://antroblogi.fi/@antroblogi.fi)
+* [AntroBlogi](https://antroblogi.fi/@antroblogi.fi) 🏠
 * [Piraattipuolue](https://mementomori.social/@Piraattipuolue)
 * [pirkanilmailijat](https://mementomori.social/@pirkanilmailijat)
 * [Skrolli-lehti](https://some.skrolli.fi/@skrollilehti) 🏠

@@ -58,6 +58,7 @@ Jos huomaat puutteita listassa, voit tehdä Pull Requestin tai jos et osaa, avat
 * [Tampere Hacklab](https://some.hacklab.fi/@tampere) 🏠
 * [Tarlab Oulu](https://some.hacklab.fi/@tarlab) 🏠
 * [Tehy ry](https://some.tehy.fi/@tehy_ry) 🏠
+* [The Alternative Party](https://altparty.social/@AltParty) 🏠
 * [Varsinais-Suomen Viite](https://mstdn.social/@varsviite)
 * [Vegaanihaaste](https://mastodon.social/@vegaanihaaste)
 * [Viite](https://mstdn.social/@viite)

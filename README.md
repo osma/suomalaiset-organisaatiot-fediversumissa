@@ -98,7 +98,7 @@ Jos huomaat puutteita listassa, voit tehdä Pull Requestin tai jos et osaa, avat
 
 * [AntroBlogi](https://antroblogi.fi/@antroblogi.fi) 🏠
 * [Piraattipuolue](https://mementomori.social/@Piraattipuolue)
-* [pirkanilmailijat](https://mementomori.social/@pirkanilmailijat)
+* [Pirkan Ilmailijat ry](https://mementomori.social/@pirkanilmailijat)
 * [Skrolli-lehti](https://some.skrolli.fi/@skrollilehti) 🏠
 * [Xamk](https://fedi.xamk.fi/@xamk) 🏠
 

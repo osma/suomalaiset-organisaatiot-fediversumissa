@@ -8,13 +8,16 @@ Tähän listaan on kerätty suomalaisia organisaatiota, joilla on aktiivinen til
 
 ## Kriteerit
 
+Listaa laatiessani olen pyrkinyt noudattamaan näitä kriteereitä:
+
 * Organisaatiolla tulee olla tili omissa nimissään, ts. tili edustaa koko organisaatiota, ja organisaation itsensä perustama.
 * Organisaation ei tarvitse olla virallisessa rekisterissä, mutta tilin tulee edustaa selvästi enemmän kuin yhtä ihmistä.
   * Tässä yhteydessä esim. selkeitä yhden hengen yrityksiä ei lasketa organisaatioiksi, vaikka ne olisivatkin rekisteröityjä yhteisöjä.
-  * Usein tätä on vaikea tietää, joten listalla voi silti olla myös oikeasti vain yhden hengen organisaatioita.
 * Tilin tulee olla aktiivinen, eli sillä on julkisia tööttejä viimeisen 3 kuukauden ajalta. (Joitain ei-aktiivisia tilejä on lopussa listattu erikseen.)
-* Yksisuuntaisia julkaisufeedejä (esim. RSS-syötteeseen perustuvia) ei lasketa. Tilin pitää olla muullakin tapaa aktiivinen, esimerkiksi reagoida vastauksiin tai mainintoihin. Botteja ei lasketa.
+* Yksisuuntaisia julkaisufeedejä (esim. RSS-syötteeseen perustuvia) ei lasketa. Tilin pitää olla muullakin tapaa aktiivinen, esimerkiksi reagoida vastauksiin tai mainintoihin. Botteja ei lasketa. WordPress-blogit jotka viestivät fediin päin ActivityPub-lisäosan kautta on kuitenkin kelpuutettu.
 * Organisaation pitää olla suomalainen. (Mitä sitten ikinä tarkoittaakin. Kielellä ei kuitenkaan ole väliä.)
+
+Aina näitä ei ole helppo selvittää ja tarkistaa, joten ihan kaikki kriteerit eivät välttämättä toteudu jokaisen kohdalla.
 
 ## Listan periaatteet
 
@@ -31,6 +34,7 @@ Jos huomaat puutteita listassa, voit tehdä Pull Requestin tai jos et osaa, avat
 * [Akaa Hacklab](https://some.hacklab.fi/@akaa) 🏠
 * [Antifasistinen meemihautomo](https://eliitin-some.fi/@meemihautomo)
 * [Archipelacon 2](https://finndom.space/@archipelacon) 🏠
+* [AvoinGLAM](https://mastodon.social/@avoinglam)
 * [Effi ry](https://eupolicy.social/@effi)
 * [Elokapina – XR Finland](https://social.rebellion.global/@elokapina)
 * [Eläinoikeuspuolue](https://mastodon.social/@eop)

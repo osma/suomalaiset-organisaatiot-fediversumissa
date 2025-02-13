@@ -36,7 +36,8 @@ Jos huomaat puutteita listassa, voit tehdä Pull Requestin tai jos et osaa, avat
 * [Archipelacon 2](https://finndom.space/@archipelacon) 🏠
 * [AvoinGLAM](https://mastodon.social/@avoinglam)
 * [Effi ry](https://eupolicy.social/@effi)
-* [Elokapina – XR Finland](https://social.rebellion.global/@elokapina)
+* [Elokapina – XR Finland](https://social.rebellion.global/@elokapina) (Mastodon)
+* [Elokapina/XR Finland](https://pixelfed.social/Elokapina) (Pixelfed)
 * [Eläinoikeuspuolue](https://mastodon.social/@eop)
 * [Finncon](https://finndom.space/@finncon) 🏠
 * [Green Sisu](https://mstdn.social/@greensisu)
@@ -67,7 +68,6 @@ Jos huomaat puutteita listassa, voit tehdä Pull Requestin tai jos et osaa, avat
 ### Media
 
 * [AfterDawn](https://mementomori.social/@afterdawn)
-* [Ilmiö - sosiologinen media](https://mastodon.social/@ilmio)
 * [Iso Numero](https://pixelfed.social/isonumero)
 * [Mikrobitti](https://mastodon.social/@mikrobitti)
 * [Risingshadow](https://mstdn.social/@RisingshadowFi)
@@ -98,6 +98,7 @@ Jos huomaat puutteita listassa, voit tehdä Pull Requestin tai jos et osaa, avat
 ## Ei-aktiiviset tilit
 
 * [AntroBlogi](https://antroblogi.fi/@antroblogi.fi) 🏠
+* [Ilmiö - sosiologinen media](https://mastodon.social/@ilmio)
 * [Piraattipuolue](https://mementomori.social/@Piraattipuolue)
 * [Pirkan Ilmailijat ry](https://mementomori.social/@pirkanilmailijat)
 * [Skrolli-lehti](https://some.skrolli.fi/@skrollilehti) 🏠

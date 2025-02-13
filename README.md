@@ -29,6 +29,10 @@ Jos huomaat puutteita listassa, voit tehdä Pull Requestin tai jos et osaa, avat
 
 ## Aktiiviset tilit
 
+### Julkishallinto
+
+* [Jyväskylän kaupunki](https://mastodon.social/@jyvaskylankaupunki)
+
 ### Järjestöt ja muu kansalaisyhteiskunta
 
 * [Akaa Hacklab](https://some.hacklab.fi/@akaa) 🏠

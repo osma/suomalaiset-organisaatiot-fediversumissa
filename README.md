@@ -49,6 +49,7 @@ Jos huomaat puutteita listassa, voit tehdä Pull Requestin tai jos et osaa, avat
 * [Helsingin Pyöräpaja](https://kolektiva.social/@pyorapajahelsinki)
 * [Helsinki Python](https://fosstodon.org/@HelPy)
 * [hoitajat](https://mementomori.social/@hoitajat)
+* [¡Hola Tampere!](https://mementomori.social/@holatampere)
 * [Instanssi](https://mementomori.social/@instanssi)
 * [Kirjallinen Orivesi](https://mementomori.social/@KirjallinenOrivesi)
 * [Komitea](https://mstdn.social/@komitea)

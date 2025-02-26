@@ -35,6 +35,7 @@ Jos huomaat puutteita listassa, voit tehdä Pull Requestin tai jos et osaa, avat
 
 ### Järjestöt ja muu kansalaisyhteiskunta
 
+* [Aikidonivala](https://mastodon.social/@Aikidonivala)
 * [Akaa Hacklab](https://some.hacklab.fi/@akaa) 🏠
 * [Antifasistinen meemihautomo](https://eliitin-some.fi/@meemihautomo)
 * [Archipelacon 2](https://finndom.space/@archipelacon) 🏠
@@ -80,18 +81,23 @@ Jos huomaat puutteita listassa, voit tehdä Pull Requestin tai jos et osaa, avat
 * [Tivi-lehti](https://mastodon.social/@tivilehti)
 * [Uutissirkus](https://mastodon.social/@uutissirkus)
 
-### Tutkimusryhmät, -projektit ja -infrastruktuurit sekä tieteelliset seurat ja lehdet
+### Tiede, tutkimus, korkeakoulut, tieteelliset seurat ja lehdet
 
 * [Aalto Scientific Computing](https://fosstodon.org/@SciCompAalto)
 * [BIOSresearch](https://mstdn.social/@BIOSresearch)
 * [Digital Geography Lab](https://mastodon.online/@digigeolab)
 * [Finnish Center for AI](https://mastodon.online/@FCAI)
+* [Historia, Helsingin yliopisto](https://h-net.social/@Historia)
 * [Historiallinen aikakauskirja](https://toot.community/@HAik)
 * [Kielipankki (FIN-CLARIN)](https://toot.community/@kielipankki)
 * [ORSI - Towards Ecowelfarestate](https://fediscience.org/@ORSI)
 * [Pelitutkimus.fi](https://www.pelitutkimus.fi/@blogi) 🏠
 * [Suomen antropologi (journal)](https://fediscience.org/@suomenantropologi)
 * [Suomen Lajitietokeskus](https://ecoevo.social/@lajitieto)
+
+### Yhtyeet
+
+* [Absoluuttinen Nollapiste](https://mementomori.social/@absoluuttinennollapiste)
 
 ### Yritykset
 

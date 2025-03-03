@@ -40,6 +40,7 @@ Jos huomaat puutteita listassa, voit tehdä Pull Requestin tai jos et osaa, avat
 * [Antifasistinen meemihautomo](https://eliitin-some.fi/@meemihautomo)
 * [Archipelacon 2](https://finndom.space/@archipelacon) 🏠
 * [AvoinGLAM](https://mastodon.social/@avoinglam)
+* [Dodo](https://pixl.fi/dodo)
 * [Effi ry](https://eupolicy.social/@effi)
 * [Elokapina – XR Finland](https://social.rebellion.global/@elokapina) (Mastodon)
 * [Elokapina/XR Finland](https://pixelfed.social/Elokapina) (Pixelfed)

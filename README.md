@@ -29,9 +29,10 @@ Jos huomaat puutteita listassa, voit tehdä Pull Requestin tai jos et osaa, avat
 
 ## Aktiiviset tilit
 
-### Julkishallinto
+### Julkishallinto, julkiset palvelut
 
 * [Jyväskylän kaupunki](https://mastodon.social/@jyvaskylankaupunki)
+* [digitalpreservation.fi](https://digipres.club/@dpres_fi)
 
 ### Järjestöt ja muu kansalaisyhteiskunta
 
@@ -106,6 +107,7 @@ Jos huomaat puutteita listassa, voit tehdä Pull Requestin tai jos et osaa, avat
 * [HelsinkiUPress](https://h-net.social/@HelsinkiUPress)
 * [jolla](https://techhub.social/@jolla)
 * [Korppi Games](https://mastodon.gamedev.place/@korppi)
+* [Salaisuustaso Taidestudio](https://gram.social/salaisuustaso)
 
 ## Ei-aktiiviset tilit
 

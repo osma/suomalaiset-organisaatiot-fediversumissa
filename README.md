@@ -56,8 +56,8 @@ Jos huomaat puutteita listassa, voit tehdä Pull Requestin tai jos et osaa, avat
 * [Instanssi](https://mementomori.social/@instanssi)
 * [Kirjallinen Orivesi](https://mementomori.social/@KirjallinenOrivesi)
 * [Komitea](https://mstdn.social/@komitea)
-* [Kurdistan solidaarisuus](https://kolektiva.social/@kurdistansvhelsinki)
 * [Kummacon](https://mastodon.social/@kummacon)
+* [Kurdistan solidaarisuus](https://kolektiva.social/@kurdistansvhelsinki)
 * [Nuoren Voiman Liitto](https://mastodon.social/@nuorenvoimanliitto)
 * [Pinkkimusta Helsinki](https://todon.eu/@pinkkimustahki)
 * [Saku - Suomen Amiga-käyttäjät](https://some.sakulehti.fi/@saku) 🏠

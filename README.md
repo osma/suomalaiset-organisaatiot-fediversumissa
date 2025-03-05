@@ -31,8 +31,8 @@ Jos huomaat puutteita listassa, voit tehdä Pull Requestin tai jos et osaa, avat
 
 ### Julkishallinto, julkiset palvelut
 
-* [Jyväskylän kaupunki](https://mastodon.social/@jyvaskylankaupunki)
 * [digitalpreservation.fi](https://digipres.club/@dpres_fi)
+* [Jyväskylän kaupunki](https://mastodon.social/@jyvaskylankaupunki)
 
 ### Järjestöt ja muu kansalaisyhteiskunta
 

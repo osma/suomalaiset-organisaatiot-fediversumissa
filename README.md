@@ -108,6 +108,7 @@ Jos huomaat puutteita listassa, voit tehdä Pull Requestin tai jos et osaa, avat
 * [jolla](https://techhub.social/@jolla)
 * [Korppi Games](https://mastodon.gamedev.place/@korppi)
 * [Salaisuustaso Taidestudio](https://gram.social/salaisuustaso)
+* [UpCloud](https://mastodon.social/@UpCloud)
 
 ## Ei-aktiiviset tilit
 

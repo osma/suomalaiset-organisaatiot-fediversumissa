@@ -47,6 +47,7 @@ Jos huomaat puutteita listassa, voit tehdä Pull Requestin tai jos et osaa, avat
 * [Elokapina/XR Finland](https://pixelfed.social/Elokapina) (Pixelfed)
 * [Eläinoikeuspuolue](https://mastodon.social/@eop)
 * [Finncon](https://finndom.space/@finncon) 🏠
+* [Finnish Game Jam](https://mastodon.gamedev.place/@finnishgamejam)
 * [Green Sisu](https://mstdn.social/@greensisu)
 * [Helsingin Jalankulkijat ry](https://mementomori.social/@HelsinginJalankulkijat)
 * [Helsingin Pyöräpaja](https://kolektiva.social/@pyorapajahelsinki)
@@ -61,6 +62,7 @@ Jos huomaat puutteita listassa, voit tehdä Pull Requestin tai jos et osaa, avat
 * [Nuoren Voiman Liitto](https://mastodon.social/@nuorenvoimanliitto)
 * [Pinkkimusta Helsinki](https://todon.eu/@pinkkimustahki)
 * [Saku - Suomen Amiga-käyttäjät](https://some.sakulehti.fi/@saku) 🏠
+* [Sateenkaari Yhteisö Discordissa](https://mastodon.social/@sateenkaariDiscord)
 * [Sorvan kyläyhdistys ry](https://eliitin-some.fi/@sorvanky)
 * [Suomen Humanistiliitto](https://mstdn.social/@humanistiliitto)
 * [Tampereen Vihuri ry](https://mementomori.social/@tampereenvihuri)

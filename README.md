@@ -61,6 +61,7 @@ Jos huomaat puutteita listassa, voit tehdä Pull Requestin tai jos et osaa, avat
 * [Kurdistan solidaarisuus](https://kolektiva.social/@kurdistansvhelsinki)
 * [Nuoren Voiman Liitto](https://mastodon.social/@nuorenvoimanliitto)
 * [Pinkkimusta Helsinki](https://todon.eu/@pinkkimustahki)
+* [Protuleirit](https://mastodon.social/@protuleirit)
 * [Saku - Suomen Amiga-käyttäjät](https://some.sakulehti.fi/@saku) 🏠
 * [Sateenkaari Yhteisö Discordissa](https://mastodon.social/@sateenkaariDiscord)
 * [Sorvan kyläyhdistys ry](https://eliitin-some.fi/@sorvanky)

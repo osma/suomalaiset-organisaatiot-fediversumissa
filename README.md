@@ -32,6 +32,8 @@ Jos huomaat puutteita listassa, voit tehdä Pull Requestin tai jos et osaa, avat
 ### Julkishallinto, julkiset palvelut
 
 * [digitalpreservation.fi](https://digipres.club/@dpres_fi)
+* [Finto-palvelu](https://some.kansalliskirjasto.fi/@Finto) 🏠
+* [Julkaisuarkistopalvelut](https://some.kansalliskirjasto.fi/@julkaisuarkistot) 🏠
 * [Jyväskylän kaupunki](https://mastodon.social/@jyvaskylankaupunki)
 
 ### Järjestöt ja muu kansalaisyhteiskunta

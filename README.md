@@ -68,6 +68,7 @@ Jos huomaat puutteita listassa, voit tehdä Pull Requestin tai jos et osaa, avat
 * [STK ry](https://mementomori.social/@STK_ry)
 * [Suomen Humanistiliitto](https://mstdn.social/@humanistiliitto)
 * [Tampereen Vihuri ry](https://mementomori.social/@tampereenvihuri)
+* [Tampereen Zen Center](https://mementomori.social/@tamperezencenter)
 * [Tampere Hacklab](https://some.hacklab.fi/@tampere) 🏠
 * [Tarlab Oulu](https://some.hacklab.fi/@tarlab) 🏠
 * [Tehy ry](https://some.tehy.fi/@tehy_ry) 🏠
